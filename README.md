@@ -1,3 +1,23 @@
+# 🍳 Cookify — Your Personal Recipe Finder
+
+Cookify is a sleek, user-friendly recipe finder web app built with React. Whether you're craving spicy street food, comforting classics, or gourmet international dishes — Cookify helps you discover delicious recipes from around the world. Just enter an ingredient or dish name, and it instantly serves up a curated list of recipes with images, cooking instructions, and ingredients.
+
+Key Features:
+
+🔍 Smart recipe search by keyword or ingredient
+
+📸 Attractive recipe cards with images and quick details
+
+🌐 Browse recipes from multiple cuisines
+
+⚡ Smooth, responsive, and mobile-friendly design
+
+🎨 Styled with modern SCSS for clean UI
+
+Tech Stack:
+ReactJS | React Router | SCSS | FontAwesome | gh-pages (for deployment)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
