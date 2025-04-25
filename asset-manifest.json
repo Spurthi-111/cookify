@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cookify/static/css/main.cce639ed.css",
+    "main.js": "/cookify/static/js/main.a5f9c5bf.js",
+    "index.html": "/cookify/index.html",
+    "main.cce639ed.css.map": "/cookify/static/css/main.cce639ed.css.map",
+    "main.a5f9c5bf.js.map": "/cookify/static/js/main.a5f9c5bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cce639ed.css",
+    "static/js/main.a5f9c5bf.js"
+  ]
+}
